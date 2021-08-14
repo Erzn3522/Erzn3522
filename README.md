@@ -12,3 +12,8 @@
 
 
 ![](https://komarev.com/ghpvc/?username=Erzn3522)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erzn3522)](https://github.com/anuraghazra/github-readme-stats)
+
