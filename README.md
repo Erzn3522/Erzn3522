@@ -9,3 +9,6 @@
 - 📫 How to reach me: abdullah_25145@hotmail.com
 - ⚡ Fun fact: I used my energy for Machine vision for 2 years but now I'm here to learn Machine Learning :D
 --
+
+
+![](https://komarev.com/ghpvc/?username=Erzn3522)
