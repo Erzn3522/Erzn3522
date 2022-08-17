@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Machine Learning** 
+- 🔭 I’m currently working on **Machine Vision** 
 - 🌱 I’m currently learning **C#** and **Halcon**
 - 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/
 - 💬 Ask me about OpenCV and ML
