@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on **Machine Vision** 
-- 🌱 I’m currently learning **C#** and **Halcon**
+- 🔭 I’m currently working on **Autonomous Driving and Computer Vision** 
+- 🌱 I’m currently learning **C++** and **Python**
 - 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/
-- 💬 Ask me about OpenCV and ML
+- 💬 Ask me about OpenCV
 - 📫 How to reach me: abdullah_25145@hotmail.com
 --
 
