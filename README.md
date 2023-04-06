@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on **Autonomous Driving and Computer Vision** 
-- 🌱 I’m currently learning **OpenCv** and **ML**
+- 🌱 I’m currently learning **OpenCV** and **ML**
 - 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/
 - 💬 Ask me about OpenCV
 - 📫 How to reach me: abdullah_25145@hotmail.com
