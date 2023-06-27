@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **Computer Vision** <br>- 🌱 I’m currently learning **OpenCV** and **ML**<br>- 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/<br>- 💬 Ask me about OpenCV<br>- 📫 How to reach me: abdullah_25145@hotmail.com
+ 🔭 I’m currently working on **Computer Vision** <br> 🌱 I’m currently learning **OpenCV** and **ML**<br> 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/<br> 💬 Ask me about OpenCV<br> 📫 How to reach me: abdullah_25145@hotmail.com
 
 
 ## 🌐 Socials:
@@ -18,8 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Erzn3522&icon=0&color=0)](https://visitcount.itsvg.in)
