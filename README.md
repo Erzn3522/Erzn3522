@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on **Autonomous Driving and Computer Vision** 
+- 🔭 I’m currently working on **Computer Vision** 
 - 🌱 I’m currently learning **OpenCV** and **ML**
 - 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/
 - 💬 Ask me about OpenCV
