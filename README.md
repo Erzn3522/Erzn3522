@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭 I’m currently working on **Computer Vision** <br> 🌱 I’m currently learning **OpenCV** and **ML**<br> 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/<br> 💬 Ask me about OpenCV<br> 📫 How to reach me: abdullaherzin80@gmail.com
+ 🔭 I’m currently working on **Computer Vision** <br> 🌱 I’m currently learning **OpenCV** and **ML**<br> 📝 I write articles when i found some interesting stuff on https://abdullaherzin.medium.com/<br> 💬 Ask me about OpenCV<br> 📫 How to reach me: abdullaherzin80@gmail.com <br> 📟 How to reach my personal Website: erzn3522.github.io
 
 
 ## 🌐 Socials:
