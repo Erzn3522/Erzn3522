@@ -17,6 +17,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Erzn3522&theme=onedark)](https://github.com/Erzn3522/github-profile-trophy)
 
 
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -25,3 +27,5 @@
 [![](https://visitcount.itsvg.in/api?id=Erzn3522&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+![snake gif](https://github.com/Erzn3522/Erzn3522/blob/output/github-contribution-grid-snake.gif)
