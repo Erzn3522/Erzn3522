@@ -20,5 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=Erzn3522&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-![snake gif](https://github.com/Erzn3522/Erzn3522/blob/output/github-contribution-grid-snake.gif)
